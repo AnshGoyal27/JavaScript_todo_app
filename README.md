@@ -16,3 +16,6 @@ Modifications to the table can also be done using the following buttons:
 5. **Search**: Opens a dialogue box and allows to search/filter items by ID, Name, Color, Date, Deescription, Status
 
 Item can be selected from table by checking the radio button under Serial Column
+
+# Instructions 
+ 1.Open Live Server in index.html to run the project
