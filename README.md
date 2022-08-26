@@ -18,4 +18,5 @@ Modifications to the table can also be done using the following buttons:
 Item can be selected from table by checking the radio button under Serial Column
 
 # Instructions 
- 1.Open Live Server in index.html to run the project
+ 1. Open Live Server in index.html to run the project
+ 2. Data saved is done so in the local storage of browser so closing it might delete the data
